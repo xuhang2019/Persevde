@@ -16,7 +16,7 @@ void process(int num,int *dig){
 }
 
 
-int main(){
+int main2(){
     int num;
     int dig[4];
     int weight = 1;
@@ -37,6 +37,7 @@ int main(){
         return 0;
     }
     while(delta != 6174){
+        // 这样写说明耦合度还不够高，还有更优的写法
         // 记得把这些局部变量初始化
         big = 0;
         lit = 0;
