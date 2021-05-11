@@ -1,0 +1,8 @@
+/.vscode/
+/build/
+*.exe
+
+# Os or Editor folders
+.DS_Store
+.vscode
+

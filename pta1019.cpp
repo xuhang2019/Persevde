@@ -5,7 +5,6 @@
 #include <algorithm>
 
 using namespace std;
-
 void process(int num,int *dig){
 
     for(int i= 0;i<4;i++){
@@ -14,7 +13,6 @@ void process(int num,int *dig){
     }
     sort(dig,dig+4);
 }
-
 
 int main2(){
     int num;
