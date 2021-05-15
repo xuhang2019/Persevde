@@ -1,6 +1,7 @@
 /.vscode/
 /build/
 *.exe
+*.out
 
 # Os or Editor folders
 .DS_Store
