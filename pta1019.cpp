@@ -14,7 +14,7 @@ void process(int num,int *dig){
     sort(dig,dig+4);
 }
 
-int main2(){
+int main(){
     int num;
     int dig[4];
     int weight = 1;
