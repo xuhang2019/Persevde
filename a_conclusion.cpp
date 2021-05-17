@@ -66,3 +66,19 @@
  * 输出没有必要全部用cout<<
  * 可以使用 printf("%04d - %04d")  这样输出格式比cout方便很多 (pta1019）
  */
+
+
+/*
+ * 3.git 栏
+ * 基本的语法：
+ * git add file/-A
+ * git commit -m "str"
+ * git push
+ *
+ * git pull
+ *
+ * 可能出现overwrite：
+ * git stash
+ * git pull
+ * git stash pop
+ */
