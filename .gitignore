@@ -1,4 +1,4 @@
-/.vscode/
+# /.vscode/ save vscode file for build configuration
 /build/
 *.exe
 *.out
@@ -6,4 +6,3 @@
 # Os or Editor folders
 .DS_Store
 .vscode
-
